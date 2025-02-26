@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning as much as possible!
 - 🌱 I’m currently learning react, javascript and java
 - 📫 How to reach me hannahhoilo@hotmail.com
-- ⚡ Fun fact: I can hold my breath for a long time!
+- ⚡ Fun fact: I can taste the difference between the non-stop colours!
 
 <!---
 Hannahhoilo/Hannahhoilo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
