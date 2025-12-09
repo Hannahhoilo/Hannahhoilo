@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hannahhoilo
 - 👀 I’m interested in learning as much as possible! 
-- 🌱 I’m currently learning: react, javascript and java, yolo crazy bananaz
+- 🌱 I’m currently learning: c, react, typescript and java, yolo crazy bananaz
 - 📫 How to reach me: hannahhoilo@hotmail.com men helst la være..
 - ⚡ Fun fact: kan smake fargen på non-stop i blinde B-) det kan ikke du
 
